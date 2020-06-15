@@ -48,6 +48,11 @@ hr {
   border-top: 5px dotted #384152;
 }
 
+a {
+  margin: 0 10px;
+  text-decoration: none;
+}
+
 /****************CLASS*************/
 .header {
   background-color: #384152;
