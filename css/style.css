@@ -1,0 +1,158 @@
+/****************TAG*************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Cabin', sans-serif;
+  color: #384152;
+  line-height: 2;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Oswald', sans-serif;
+  font-size: 320%;
+  font-weight: normal;
+}
+
+h2 {
+  margin: 30px 0 10px 0;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #ea8236;
+  font-weight: normal;
+}
+
+h3 {
+  margin: 0;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #384152;
+  font-weight: normal;
+}
+
+p {
+  margin: 0;
+  padding-bottom: 50px;
+  font-family: 'Cabin', sans-serif;
+}
+
+a:link {
+  color: #ea8236;
+}
+
+a:visited {
+  color: white;
+}
+
+hr {
+  width: 5%;
+  border: 0;
+  border-top: 5px dotted #384152;
+}
+
+/****************CLASS*************/
+.header {
+  background-color: #384152;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.text_white {
+  color: white;
+}
+
+.cat_paw_header_2 {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.cat_paw_header {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.chi_sono {
+  background-color: white;
+  padding-bottom: 30px;
+}
+
+.introduction {
+  background-color: white;
+}
+
+/* CAT PROFILE  */
+.cat_profile {
+  background-color: white
+}
+
+.paragraph_nobottom {
+  padding-bottom: 0;
+}
+
+/* MY_SKILLS  */
+.my_skills_img {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.my_skills {
+  background-color: white;
+  width: 60%;
+  margin: 10px auto;
+  text-align: left;
+}
+
+/* MY_HOBBIES  */
+.my_hobbies_img {
+  width: 30%;
+  float: right;
+  margin-right: 30px;
+}
+
+.my_hobbies {
+  background-color: white;
+  width: 60%;
+  margin: 40px auto;
+  text-align: left;
+}
+
+/* CURIOSITA  */
+.curiosita_img {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.curiosita {
+  background-color: white;
+  width: 60%;
+  margin: 80px auto;
+  text-align: left;
+}
+
+/* ABILITA  */
+.abilita_img {
+  width: 30%;
+  float: right;
+  margin-right: 30px;
+}
+
+.abilita {
+  background-color: white;
+  width: 60%;
+  margin: 60px auto;
+  text-align: left;
+}
+
+/* CONTATTI  */
+.contatti {
+  background-color: white;
+}
+
+.footer {
+  background-color: #384152;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
